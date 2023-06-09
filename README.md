@@ -1,2 +1,4 @@
 # Strivers-SDE-Sheet-Challenge
-Strivers SDE Sheet Challenge 2023
+Sheet Link: https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/
+
+Challenge Link: https://www.codingninjas.com/codestudio/challenges/striver-sde-challenge/register
